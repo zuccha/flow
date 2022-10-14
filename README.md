@@ -2,6 +2,11 @@
 
 Flow is a simple where the player has to connect colored dots.
 
+<p align="center">
+  <img src="docs/menu.png" width="45%" />
+  <img src="docs/level14.png" width="45%" />
+</p>
+
 ## Rules
 
 To complete a level, the p[layer must connect all pairs of colored dots, without
