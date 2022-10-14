@@ -43,4 +43,4 @@ You can run the app by downloading Racket (minimum version 6.0) and using
 
 ## Authors
 
-The game has been developed by Amedeo Zucchetti e Vanessa Braglia.
+The game has been developed by Amedeo Zucchetti and Vanessa Braglia.
